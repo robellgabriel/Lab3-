@@ -29,6 +29,11 @@ public class AddressBook {
         addressBook.removeBuddy(0);
     }
 
+    public void newMethod(){
+
+    }
+
 }
 
 //changes made from website repository
+
